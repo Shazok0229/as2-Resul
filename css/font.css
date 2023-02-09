@@ -1,0 +1,60 @@
+
+@font-face {
+  font-family: "Inter-Black";
+  src: url(../font/Inter-Thin.ttf);
+  font-style: normal;
+  font-weight: 100;
+}
+@font-face {
+  font-family: "Inter-Black";
+  src: url(../font/Inter-SemiBold.ttf);
+  font-style: italic;
+  font-weight: 600;
+}
+@font-face {
+  font-family: "Inter-Black";
+  src: url(../font/Inter-Regular.ttf);
+  font-style: normal;
+  font-weight: 400;
+}
+@font-face {
+  font-family: "Inter-Black";
+  src: url(../font/Inter-Medium.ttf);
+  font-style: italic;
+  font-weight: 500;
+}
+@font-face {
+  font-family: "Inter-Black";
+  src: url(../font/Inter-Light.ttf);
+  font-style: normal;
+  font-weight: 300;
+}
+@font-face {
+  font-family: "Inter-Black";
+  src: url(../font/Inter-ExtraLight.ttf);
+  font-style: italic;
+  font-weight: 200;
+}
+@font-face {
+  font-family: "Inter-Black";
+  src: url(../font/Inter-ExtraBold.ttf);
+  font-style: normal;
+  font-weight: 800;
+}
+@font-face {
+  font-family: "Inter-Black";
+  src: url(../font/Inter-Bold.ttf);
+  font-style: italic;
+  font-weight: 700;
+}
+@font-face {
+  font-family: "Inter-Black";
+  src: url(../font/Inter-Black.ttf);
+  font-style: normal;
+  font-weight: 900;
+}
+
+
+body {
+  font-family: "Inter-Black", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", "Noto Sans", "Liberation Sans", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+}
